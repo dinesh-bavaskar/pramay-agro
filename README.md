@@ -1,6 +1,6 @@
 # 🌱 PramayAgro – Business Landing Page
 
-🚀 **Live Demo:** https://pramayagro.netlify.app/  
+🚀 **Live Demo:**easy-hunt-landing-zo5s.vercel.app
 📂 **GitHub Repository:** https://github.com/dinesh-bavaskar/pramay-agro
 
 ---
