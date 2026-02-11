@@ -1,19 +1,46 @@
-# 🌱 PramayAgro – Agriculture Landing Page
+# 🌱 PramayAgro – Business Landing Page
 
-A responsive landing page built for an agriculture-based business.
+🚀 **Live Demo:** https://pramayagro.netlify.app/  
+📂 **GitHub Repository:** https://github.com/dinesh-bavaskar/pramay-agro
 
-## 🚀 Live Demo
-👉 https://pramayagro.netlify.app/
+---
+
+## 🧠 Project Overview
+
+PramayAgro is a modern and responsive **business landing page** designed for an agriculture-focused brand.  
+The project emphasizes clean UI design, responsive layouts, and a professional web presence suitable for real-world business use cases.
+
+It showcases practical frontend development skills including **component-based design, performance optimization, and responsive styling**.
+
+---
 
 ## 🛠 Tech Stack
-- HTML
-- CSS
-- JavaScript
 
-## ✨ Features
-- Business-focused layout
-- Mobile-friendly design
-- Clean UI with structured sections
-- 
-## 📂 GitHub Repository
-👉 https://github.com/dinesh-bavaskar/pramay-agro
+- React.js
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+---
+
+## ✨ Key Features
+
+- 🌍 Clean and professional landing page design
+- 📱 Fully responsive across devices
+- ⚡ Fast performance with Vite
+- 🎨 Structured and maintainable UI components
+- 🧩 Modern frontend development practices
+
+---
+
+## 🎯 Purpose of the Project
+
+- Build a real-world business landing page
+- Practice responsive UI development
+- Strengthen React + Vite workflow
+- Create production-style frontend layouts
+
+---
+
+⭐ If you find this project useful, consider starring the repository!
