@@ -1,24 +1,22 @@
-# 🌱 PramayAgro – Business Landing Page
+# 🔍 EasyHunt – Job Search Landing Page
 
-🚀 **Live Demo:**easy-hunt-landing-zo5s.vercel.app
-📂 **GitHub Repository:** https://github.com/dinesh-bavaskar/pramay-agro
+🚀 **Live Demo:** https://easy-hunt-landing-zo5s.vercel.app/  
+📂 **GitHub Repository:** https://github.com/dinesh-bavaskar/easy-hunt-landing
 
 ---
 
 ## 🧠 Project Overview
 
-PramayAgro is a modern and responsive **business landing page** designed for an agriculture-focused brand.  
-The project emphasizes clean UI design, responsive layouts, and a professional web presence suitable for real-world business use cases.
-
-It showcases practical frontend development skills including **component-based design, performance optimization, and responsive styling**.
+EasyHunt is a modern and responsive **job-search landing page** designed to deliver a clean, intuitive, and engaging user experience.  
+The project highlights practical frontend development skills with a focus on UI structure, responsiveness, and performance.
 
 ---
 
 ## 🛠 Tech Stack
 
 - React.js
-- Vite
-- JavaScript (ES6+)
+- vite
+- TypeScript
 - HTML5
 - CSS3
 
@@ -26,20 +24,20 @@ It showcases practical frontend development skills including **component-based d
 
 ## ✨ Key Features
 
-- 🌍 Clean and professional landing page design
+- 🎯 Clean and modern landing page design
 - 📱 Fully responsive across devices
-- ⚡ Fast performance with Vite
-- 🎨 Structured and maintainable UI components
-- 🧩 Modern frontend development practices
+- ⚡ Optimized performance
+- 🧩 Component-based UI structure
+- 🎨 User-focused interface design
 
 ---
 
 ## 🎯 Purpose of the Project
 
-- Build a real-world business landing page
-- Practice responsive UI development
-- Strengthen React + Vite workflow
-- Create production-style frontend layouts
+- Practice modern frontend development
+- Build responsive UI layouts
+- Strengthen React + TypeScript skills
+- Create production-style landing pages
 
 ---
 
